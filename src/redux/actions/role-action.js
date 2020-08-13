@@ -1,0 +1,5 @@
+export const SET_LOADING = "SET_LOADING"
+export const GET_ROLES = "GET_ROLES"
+export const GET_ROLES_REQUESTED = "GET_ROLES_REQUESTED"
+export const SET_LIMIT = "SET_LIMIT"
+export const SET_LIMIT_REQUESTED = "SET_LIMIT_REQUESTED"
